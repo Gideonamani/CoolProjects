@@ -25,11 +25,9 @@ use one instead of another?
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-    So since I don't want to have any freaking coflicts I'll just add
-    these lines here.
-    Fill in your answer here. Should I really? Yeah you should bruh.. :)
-    This is a trial for looking at fetch.
-    It is the best of the best.
+    Fill in your answer here. 
+    It is beneficial in that it offers a clear reference point as to how the
+    state of the files where at the beginning stage of your current work on it
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
